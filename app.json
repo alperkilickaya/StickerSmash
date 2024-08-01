@@ -16,10 +16,6 @@
       "bundleIdentifier": "com.alperkilickaya.StickerSmash"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "package": "com.alperkilickaya.StickerSmash"
     },
     "web": {
